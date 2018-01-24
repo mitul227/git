@@ -1,16 +1,1 @@
-bhag yaha se be
-
-chal na
-
-<<<<<<< HEAD
-no no
-
-made other changes 1
-
-made other changes 3
-
-=======
-no n
-
-chal na o
->>>>>>> second
+this is one
